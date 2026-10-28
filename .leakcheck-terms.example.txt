@@ -1,0 +1,12 @@
+# Copy this file to .leakcheck-terms.txt (which git ignores) and list the strings that must
+# never appear in anything you publish: one per line, matched case-insensitively.
+# Lines starting with # are comments. Some kinds of string worth listing:
+#
+#   your first and last name, each on its own line
+#   your email address and the part before the @
+#   your phone number's area code with its dash, for example 555-
+#   your street, town and state
+#   current and past employers, clients and internal project names
+#   companies you applied to
+#   salary figures you use, written the way you write them, for example 95,000
+#   the start of your home folder path

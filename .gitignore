@@ -1,0 +1,28 @@
+# Your job data and the generated board
+jobs/
+board.html
+
+# Your own facts. Only the examples are published.
+context/*.md
+!context/*.example.md
+
+# Personal strings for the leak check
+.leakcheck-terms.txt
+
+# Personal files: résumés, letters and exports you drop in by accident
+*.docx
+*.pdf
+*.doc
+*.odt
+
+# Python and editor clutter
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local Claude Code settings
+.claude/settings.local.json
